@@ -1,0 +1,5 @@
+Digit Recognizer
+https://www.kaggle.com/competitions/digit-recognizer/data
+
+Setiap gambar memiliki tinggi 28 piksel dan lebar 28 piksel, sehingga totalnya 784 piksel
+
